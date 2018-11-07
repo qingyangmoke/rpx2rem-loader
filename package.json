@@ -1,0 +1,30 @@
+{
+  "name": "rpx2rem-loader",
+  "version": "0.0.1",
+  "description": "webpack loader for rpx2rem",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qingyangmoke/rpx2rem-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "author": "qingyangmoke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qingyangmoke/rpx2rem-loader/issues"
+  },
+  "homepage": "https://github.com/qingyangmoke/rpx2rem-loader",
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "rpx2rem": "^0.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
