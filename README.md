@@ -34,7 +34,8 @@ module.exports = {
         // options here
         options: {
           remUnit: 100,
-          remPrecision: 6
+          remTag: 'rem',
+          remPrecision: 6,
         }
       }]
     }]

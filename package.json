@@ -1,6 +1,6 @@
 {
   "name": "rpx2rem-loader",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "webpack loader for rpx2rem",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/qingyangmoke/rpx2rem-loader",
   "dependencies": {
     "loader-utils": "^1.1.0",
-    "rpx2rem": "^0.0.2"
+    "rpx2rem": "^0.0.3"
   },
   "devDependencies": {
     "mocha": "^2.1.0"
