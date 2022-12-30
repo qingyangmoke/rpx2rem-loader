@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/qingyangmoke/rpx2rem-loader",
   "dependencies": {
-    "loader-utils": "^1.1.0",
+    "loader-utils": "^3.2.1",
     "rpx2rem": "^0.0.3"
   },
   "devDependencies": {
